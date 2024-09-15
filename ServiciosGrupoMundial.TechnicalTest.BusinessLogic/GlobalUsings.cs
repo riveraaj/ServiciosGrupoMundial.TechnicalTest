@@ -1,0 +1,7 @@
+﻿global using Microsoft.Extensions.DependencyInjection;
+global using ServiciosGrupoMundial.TechnicalTest.BusinessLogic.Services;
+global using ServiciosGrupoMundial.TechnicalTest.BusinessObjects.Enums;
+global using ServiciosGrupoMundial.TechnicalTest.BusinessObjects.Interfaces;
+global using ServiciosGrupoMundial.TechnicalTest.BusinessObjects.POCOs;
+global using ServiciosGrupoMundial.TechnicalTest.BusinessObjects.ValueObjects;
+global using System.Globalization;

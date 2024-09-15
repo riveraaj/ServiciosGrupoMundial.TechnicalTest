@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ServiciosGrupoMundial.TechnicalTest.BusinessLogic\ServiciosGrupoMundial.TechnicalTest.BusinessLogic.csproj" />
+    <ProjectReference Include="..\ServiciosGrupoMundial.TechnicalTest.BusinessObjects\ServiciosGrupoMundial.TechnicalTest.BusinessObjects.csproj" />
+  </ItemGroup>
+
+</Project>

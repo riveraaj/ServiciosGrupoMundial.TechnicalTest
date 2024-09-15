@@ -1,0 +1,6 @@
+@ServiciosGrupoMundial.TechnicalTest.WebAPI_HostAddress = http://localhost:5276
+
+GET {{ServiciosGrupoMundial.TechnicalTest.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
